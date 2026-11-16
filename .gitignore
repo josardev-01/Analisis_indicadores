@@ -1,0 +1,13 @@
+# Datos de la aplicación: son del usuario, no del código.
+datos/
+
+# Configuración local de Claude Code (launch.json sí se versiona).
+.claude/settings.local.json
+
+# Sistema y editores
+node_modules/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
